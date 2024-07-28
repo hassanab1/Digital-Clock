@@ -1,0 +1,23 @@
+body{
+    background-color: #021526;
+}
+.topMostBlock{
+    width: max-content;
+    margin: 0 auto;
+    margin:100px auto;
+}
+.block{
+    margin: 0 auto;
+    width: max-content;
+    padding: 10px ;
+    background-color: #E2E2B6;
+    border-radius: 100px;
+    box-shadow: 10px 8px 10px black;
+}
+h1{
+    font-size: 30px;
+    color: #03346E;
+    font-family: "Orbitron", sans-serif;
+    display: inline;
+    width: max-content;
+}
